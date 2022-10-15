@@ -8,7 +8,12 @@
 
 ## Installation
 Simple, Just clone this repository to your local storage and run the below command.
+
 ` pip install -r requirements.txt `
+
+                   OR
+
+` python setup.py install `
 
 ## Execution
 Run the below command in command prompt or terminal.
